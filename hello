@@ -1,0 +1,3 @@
+#!/home/benten/.nvm/versions/node/v10.15.0/bin/node
+
+console.log("Hello, World!");
